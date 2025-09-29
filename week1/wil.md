@@ -88,3 +88,5 @@ API 명세서
 4. 주문 취소
    PATCH
    /orders/{orderId}/cancel
+
+![Whitelabel Error Page](Screenshot%202025-09-29%20at%2021.58.56.png)
