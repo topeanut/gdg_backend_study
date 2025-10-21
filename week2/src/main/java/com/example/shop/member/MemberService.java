@@ -41,13 +41,7 @@ public class MemberService {
         }
         return member;
     }
-    public Member getMemberByLoginId(String loginId) {
-        Member member=memberRepository.findById(id);
-        if (member == null) {
-            throw new RuntimeException("회원을 찾을 수 없습니다.");
-        }
-        return member;
-    }
+
     public void updateMember(Long id, MemberUpdateRequest request) {
         Member member = memberRepository.findById(id);
 
