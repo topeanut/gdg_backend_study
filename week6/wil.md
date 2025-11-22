@@ -25,3 +25,4 @@ spring doc을 사용한다.
 
 ![Whitelabel Error Page](image.png)
 ![Whitelabel Error Page](swagger.png)
+![Whitelabel Error Page](swagger2.png)
